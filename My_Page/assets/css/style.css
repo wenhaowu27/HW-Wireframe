@@ -1,0 +1,13 @@
+/**
+ * Homework my pages
+ **/
+
+ header {   
+    margin: auto;   
+  }
+ 
+  #name {
+      padding:20px;
+      width:80px;
+      background:teal;
+  }
